@@ -3,6 +3,9 @@
 Created on Wed Oct 30 15:01:14 2024
 
 """
+# Denne koden er generert av ChatGPT (OpenAI) basert på mine instruksjoner.
+# Ingen linjer er skrevet manuelt, men enkelte deler kan være redigert i etterkant.
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -62,4 +65,5 @@ median_val = np.median(values)
 
 # Save and display the plot
 #plt.savefig("F_Pb2.png", dpi=300)
+
 plt.show()
