@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 10 11:03:08 2025
 
-@author: 47968
+
 """
 # Denne koden er generert av ChatGPT (OpenAI) basert på mine instruksjoner.
 # Ingen linjer er skrevet manuelt, men enkelte deler kan være redigert i etterkant.
@@ -44,3 +44,4 @@ for kolonne, resultater in normalitetsresultater.items():
     else:
         print("  ⚠️ Ikke nok data til å teste normalitet")
     print()
+
